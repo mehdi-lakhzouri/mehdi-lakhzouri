@@ -139,31 +139,48 @@ I build modern web platforms with a security-by-design mindset: hardened APIs, c
 ## GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehdi-lakhzouri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=mehdi-lakhzouri&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+  <h3>Performance Overview</h3>
+  <p>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehdi-lakhzouri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub stats including commits, reviews, and pull requests" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=mehdi-lakhzouri&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  </p>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-lakhzouri&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most used languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehdi-lakhzouri&theme=tokyonight&utcOffset=1" alt="Commit activity" />
+  <h3>Languages & Commit Rhythm</h3>
+  <p>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-lakhzouri&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most used programming languages" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehdi-lakhzouri&theme=tokyonight&utcOffset=1" alt="Most productive commit time" />
+  </p>
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehdi-lakhzouri&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub activity graph" />
+  <h3>Contribution Activity</h3>
+  <p>
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehdi-lakhzouri&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+  </p>
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehdi-lakhzouri&theme=tokyonight" alt="Profile summary" />
+  <h3>Profile Summary</h3>
+  <p>
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehdi-lakhzouri&theme=tokyonight" alt="GitHub profile details summary" />
+  </p>
 </div>
 
 <div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehdi-lakhzouri&theme=tokyonight" alt="Repositories per language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehdi-lakhzouri&theme=tokyonight" alt="Most committed languages" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehdi-lakhzouri&theme=tokyonight" alt="Profile stats" />
+  <p>
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehdi-lakhzouri&theme=tokyonight" alt="Repositories grouped by language" />
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehdi-lakhzouri&theme=tokyonight" alt="Most committed languages" />
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehdi-lakhzouri&theme=tokyonight" alt="GitHub profile statistics" />
+  </p>
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=mehdi-lakhzouri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
+  <h3>Achievements</h3>
+  <p>
+    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=mehdi-lakhzouri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
+  </p>
 </div>
 
 ## Contribution Snake
