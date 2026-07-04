@@ -24,6 +24,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=800&color=14B8A6&center=true&vCenter=true&width=820&lines=Building+secure+APIs+and+scalable+platforms;Automating+security+operations+with+AI;Designing+defense-minded+full-stack+systems" alt="Animated focus line" />
+</div>
+
 ## Security-First Engineering
 
 I build modern web platforms with a security-by-design mindset: hardened APIs, clean backend architecture, strong identity flows, observable infrastructure, and automation that helps teams detect, triage, and respond faster.
@@ -51,11 +55,19 @@ I build modern web platforms with a security-by-design mindset: hardened APIs, c
   </tr>
 </table>
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=Frontend+interfaces;Backend+architecture;Databases+and+automation;Security+tooling+and+DevSecOps" alt="Animated tech stack labels" />
+</div>
 
 <div align="center">
 
 ### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
@@ -63,9 +75,11 @@ I build modern web platforms with a security-by-design mindset: hardened APIs, c
 
 ### Backend
 ![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF)
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![Symfony](https://img.shields.io/badge/Symfony-0D1117?style=for-the-badge&logo=symfony&logoColor=white)
 
 ### Databases
@@ -95,6 +109,24 @@ I build modern web platforms with a security-by-design mindset: hardened APIs, c
 ![MISP](https://img.shields.io/badge/MISP-0D1117?style=for-the-badge&logo=securityscorecard&logoColor=white)
 ![OpenCTI](https://img.shields.io/badge/OpenCTI-0D1117?style=for-the-badge&logo=opencollective&logoColor=58A6FF)
 
+</div>
+
+<div align="center">
+  <h3>Backend Architecture Focus</h3>
+  <table>
+    <tr>
+      <td><strong>API Design</strong></td>
+      <td>NestJS, Express.js, Symfony, Laravel, REST APIs, validation, rate limiting, and secure error handling</td>
+    </tr>
+    <tr>
+      <td><strong>Security Controls</strong></td>
+      <td>RBAC, IAM, Keycloak, token hardening, audit logs, OWASP Top 10 mitigation, and API abuse prevention</td>
+    </tr>
+    <tr>
+      <td><strong>Scalable Systems</strong></td>
+      <td>PostgreSQL, Redis, Docker, Nginx, background jobs, caching, and clean service boundaries</td>
+    </tr>
+  </table>
 </div>
 
 ## Featured Projects
@@ -184,6 +216,7 @@ I build modern web platforms with a security-by-design mindset: hardened APIs, c
 <h2 align="center">Contribution Snake</h2>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=800&color=14B8A6&center=true&vCenter=true&width=720&lines=Automated+contribution+animation;Generated+from+real+GitHub+activity;Refreshed+by+GitHub+Actions" alt="Animated contribution text" />
   <p>
     <img src="https://img.shields.io/badge/Generated%20from-GitHub%20Contributions-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=2563EB" alt="Generated from GitHub contributions" />
     <img src="https://img.shields.io/badge/Refresh-Every%2012%20Hours-0D1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF&labelColor=0D1117" alt="Snake refresh schedule" />
@@ -198,7 +231,7 @@ I build modern web platforms with a security-by-design mindset: hardened APIs, c
 ## Current Focus
 
 - Designing secure backend systems with clean architecture, observability, and defensive controls.
-- Building full-stack applications with Next.js, NestJS, TypeScript, and PostgreSQL.
+- Building full-stack applications with HTML, CSS, JavaScript, Bootstrap, React, Next.js, NestJS, Express.js, Laravel, Symfony, TypeScript, and PostgreSQL.
 - Automating security workflows across detection, enrichment, triage, and reporting.
 - Strengthening DevSecOps pipelines with practical SAST, DAST, container, and dependency checks.
 
