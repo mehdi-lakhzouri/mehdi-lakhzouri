@@ -136,20 +136,19 @@ I build modern web platforms with a security-by-design mindset: hardened APIs, c
   </tbody>
 </table>
 
-## GitHub Analytics
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
   <h3>Performance Overview</h3>
   <p>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehdi-lakhzouri&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub stats including commits, reviews, and pull requests" />
-    <img width="49%" src="https://streak-stats.demolab.com?user=mehdi-lakhzouri&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+    <img width="62%" src="https://streak-stats.demolab.com?user=mehdi-lakhzouri&theme=github-dark-blue&hide_border=true&border_radius=6&card_width=640" alt="GitHub contribution streak" />
   </p>
 </div>
 
 <div align="center">
-  <h3>Contribution Activity</h3>
+  <h3>Contribution Map</h3>
   <p>
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehdi-lakhzouri&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehdi-lakhzouri&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
   </p>
 </div>
 
@@ -162,26 +161,37 @@ I build modern web platforms with a security-by-design mindset: hardened APIs, c
 
 <div align="center">
   <p>
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehdi-lakhzouri&theme=github_dark" alt="Repositories grouped by language" />
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehdi-lakhzouri&theme=github_dark" alt="Most committed languages" />
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehdi-lakhzouri&theme=github_dark" alt="GitHub profile statistics" />
+    <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehdi-lakhzouri&theme=github_dark" alt="Repositories grouped by language" />
+    <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehdi-lakhzouri&theme=github_dark" alt="Most committed languages" />
+    <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehdi-lakhzouri&theme=github_dark" alt="GitHub profile statistics" />
   </p>
 </div>
 
 <div align="center">
   <h3>Achievements</h3>
   <p>
-    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=mehdi-lakhzouri&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
+    <img src="https://img.shields.io/badge/Secure%20Backend%20Architecture-0D1117?style=for-the-badge&logo=nestjs&logoColor=58A6FF" alt="Secure backend architecture" />
+    <img src="https://img.shields.io/badge/API%20Security-0D1117?style=for-the-badge&logo=owasp&logoColor=14B8A6" alt="API security" />
+    <img src="https://img.shields.io/badge/DevSecOps-0D1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF" alt="DevSecOps" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/SOC%20Automation-0D1117?style=for-the-badge&logo=wazuh&logoColor=14B8A6" alt="SOC automation" />
+    <img src="https://img.shields.io/badge/IAM%20%26%20RBAC-0D1117?style=for-the-badge&logo=keycloak&logoColor=58A6FF" alt="IAM and RBAC" />
+    <img src="https://img.shields.io/badge/AI%20Security%20Automation-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="AI security automation" />
   </p>
 </div>
 
-## Contribution Snake
+<h2 align="center">Contribution Snake</h2>
 
 <div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Generated%20from-GitHub%20Contributions-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=2563EB" alt="Generated from GitHub contributions" />
+    <img src="https://img.shields.io/badge/Refresh-Every%2012%20Hours-0D1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF&labelColor=0D1117" alt="Snake refresh schedule" />
+  </p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehdi-lakhzouri/mehdi-lakhzouri/output/github-contribution-grid-snake-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehdi-lakhzouri/mehdi-lakhzouri/output/github-contribution-grid-snake.svg?v=2" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mehdi-lakhzouri/mehdi-lakhzouri/output/github-contribution-grid-snake.svg?v=2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mehdi-lakhzouri/mehdi-lakhzouri/raw/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/mehdi-lakhzouri/mehdi-lakhzouri/raw/output/github-contribution-grid-snake.svg" />
+    <img width="95%" alt="Contribution snake animation" src="https://github.com/mehdi-lakhzouri/mehdi-lakhzouri/raw/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
